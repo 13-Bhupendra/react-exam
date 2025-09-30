@@ -1,0 +1,23 @@
+ *
+ {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: montserrat;
+    background-color: whitesmoke;
+}
+.contentContainer{
+    width: 90%;
+    padding: 2%;
+    background-color: white;
+    margin: auto;
+    border-radius: 20px;
+}
+h1
+{
+    text-align: center;
+    margin-top: 20px;
+    color: navy;
+    font-weight: bold;
+    margin-bottom: 50px;
+}
